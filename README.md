@@ -1,5 +1,5 @@
 # My First Project
-> Get a pulse on the market, improve forecast accuracy and prepare for future demand.
+
 
 
 This file will become your README and also the index of your documentation.
