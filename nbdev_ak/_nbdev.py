@@ -8,7 +8,7 @@ index = {"hello_world": "00_core1.ipynb",
 modules = ["core1.py",
            "core2.py"]
 
-doc_url = "https://akrishnamo.github.io/nbdev_ak/"
+doc_url = "https://akrishnamo.github.io/"
 
 git_url = "https://github.com/akrishnamo/nbdev_ak/tree/master/"
 
