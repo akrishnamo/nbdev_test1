@@ -11,6 +11,6 @@ modules = ["core1.py",
 
 doc_url = "https://akrishnamo.github.io/"
 
-git_url = "https://github.com/akrishnamo/nbdev_test1/nbdev_ak/tree/master/"
+git_url = "https://github.com/akrishnamo/nbdev_test1/tree/master/"
 
 def custom_doc_links(name): return None
