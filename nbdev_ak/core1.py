@@ -8,7 +8,7 @@ def hello_world():
 
 # Cell
 def hello_world2():
-    '''prints the ,`hello_world`,  function twice'''
+    '''prints the ,`hello_world`,  function twice reference to `add` '''
     hello_world()
     hello_world()
 
