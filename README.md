@@ -12,7 +12,7 @@ Get a pulse on the market, improve forecast accuracy and prepare for future dema
 
 Fill me in please! Don't forget code examples:
 
-```python
+```
 1+1
 ```
 
