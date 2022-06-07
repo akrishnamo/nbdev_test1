@@ -4,4 +4,4 @@ __all__ = ['add']
 
 # Cell
 def add(a,b):
-    return sum(a, b)
+    return a+b
